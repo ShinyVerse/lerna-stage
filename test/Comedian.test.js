@@ -21,7 +21,7 @@ describe('Comedian', () => {
     expect(comedian.tellJoke()).to.equal('Something funny');
   })
 
-  it('bows when act finished', () => {
-    expect(comedian.endsAct()).to.equal('Thanks audience. *Leaves stage*')
+  it('thanks when act finished', () => {
+    expect(comedian.endAct()).to.equal('Thanks audience. *Leaves stage*')
   })
 })

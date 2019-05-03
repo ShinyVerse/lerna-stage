@@ -9,7 +9,7 @@ class Comedian {
     return oneLinerJoke.getRandomJoke().body
   }
 
-  endsAct() {
+  endAct() {
     return 'Thanks audience. *Leaves stage*';
   }
 
