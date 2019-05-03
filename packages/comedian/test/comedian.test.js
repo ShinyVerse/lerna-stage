@@ -1,6 +1,6 @@
 const { expect } = require('chai');
 const sinon = require('sinon')
-const Comedian = require('../src/Comedian');
+const comedian = require('../src/Comedian');
 const oneLinerJoke = require('one-liner-joke');
 
 

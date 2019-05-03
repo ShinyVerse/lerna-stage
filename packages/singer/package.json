@@ -1,5 +1,5 @@
 {
-  "name": "comedian",
+  "name": "singer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4",
-    "one-liner-joke": "^1.2.0",
-    "sinon": "^7.3.2"
+    "mocha": "^6.1.4"
   }
 }

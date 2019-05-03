@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ShinyVerse/lerna-stage#readme",
   "dependencies": {
+    "comedian": "1.0.0",
     "chai": "^4.2.0",
     "mocha": "^6.1.4",
     "one-liner-joke": "^1.2.0",

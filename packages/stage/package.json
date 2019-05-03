@@ -1,18 +1,16 @@
 {
-  "name": "comedian",
+  "name": "stage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+   "comedian": "1.0.0",
+   "singer": "1.0.0"
+ },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.1.4",
-    "one-liner-joke": "^1.2.0",
-    "sinon": "^7.3.2"
-  }
+  "license": "ISC"
 }

@@ -1,1 +1,1 @@
-module.exports = require('./src/Comedian')
+module.exports = require('./src/comedian');
