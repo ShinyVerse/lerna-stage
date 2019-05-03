@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests here, go away\" && exit 1"
+  },
   "dependencies": {
     "comedian": "^2.0.0",
     "singer": "^2.0.0"
