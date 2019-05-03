@@ -1,4 +1,4 @@
-const Comedian = require('./src/Comedian');
+const Comedian = require('comedian');
 const Singer = require('./src/Singer');
 const comedian = new Comedian();
 const singer = new Singer();

@@ -24,5 +24,8 @@
     "mocha": "^6.1.4",
     "one-liner-joke": "^1.2.0",
     "sinon": "^7.3.2"
+  },
+  "devDependencies": {
+    "lerna": "^3.13.4"
   }
 }
