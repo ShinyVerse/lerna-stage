@@ -1,15 +1,15 @@
 {
   "name": "stage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-   "comedian": "1.0.0",
-   "singer": "1.0.0"
- },
+    "comedian": "^2.0.0",
+    "singer": "^2.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
